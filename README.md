@@ -4,7 +4,7 @@ I successfully replicated the website of **Sundown Studio**, showcasing my profi
 
 ## Live Demo
 
-https://github.com/aryansinha1818/SundownStudioClone/settings/pages
+[https://github.com/aryansinha1818/SundownStudioClone/settings/pages](https://aryansinha1818.github.io/SundownStudioClone/)
 
 ✨ **Features Implemented**:
 - Integrated **Locomotive JS** for seamless and smooth scrolling, enhancing the overall user experience. 🌀
