@@ -1,0 +1,1 @@
+ I successfully replicated the website of Sundown Studio, showcasing my proficiency in HTML, CSS, and JavaScript. I integrated Locomotive JS to achieve seamless and smooth scrolling, enhancing the overall user experience. To further elevate the website's usability, I implemented Swiper JS, creating an intuitive and user-friendly interface.
